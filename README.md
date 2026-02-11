@@ -68,7 +68,7 @@ python run.py
 ```
 🎯 Key Design Decision
 Confidence scores and label filtering were added as optional enhancements to improve trust and explainability, without changing the assessment-required output structure.
-``
+```
 🛠️ Tech Stack
 LLM: Gemini 1.5
 Runtime: Google Colab / Python
