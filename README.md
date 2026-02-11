@@ -79,9 +79,9 @@ Model Confidence Scores (Reported)
 ```
 | Field Source                               | Confidence Score |
 | ------------------------------------------ | ---------------- |
-| Gemini LLM (clean value)                   | **0.88 – 0.95**  |
-| Regex fallback                             | **0.70 – 0.80**  |
-| Structured fields (policy #, date, amount) | **+0.03 boost**  |
-| Header / label-like values                 | **≤ 0.30**       |
-| Missing or empty fields                    | **0.00**         |
+| Gemini LLM (clean value)                   | 0.88 – 0.95  |
+| Regex fallback                             | 0.70 – 0.80|
+| Structured fields (policy #, date, amount) | +0.03 boost|
+| Header / label-like values                 | ≤ 0.30|
+| Missing or empty fields                    | 0.00|
 ```
