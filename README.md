@@ -74,7 +74,7 @@ LLM: Gemini 1.5
 Runtime: Google Colab / Python
 PDF Parsing: pdfplumber
 Design: LLM-first, rule-backed
-
+```
 Model Confidence Scores (Reported)
 ```
 | Field Source                               | Confidence Score |
