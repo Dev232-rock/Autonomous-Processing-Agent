@@ -1,6 +1,4 @@
-```
-Autonomous Insurance Claims Processing Agent
-```
+**Autonomous Insurance Claims Processing Agent**
 🚀 Project Summary
 
 This project implements an AI-powered FNOL (First Notice of Loss) claims processing agent using Gemini LLM. The system automatically extracts key claim information from insurance PDFs, identifies missing or unreliable data, and routes claims to the correct workflow with clear reasoning.
